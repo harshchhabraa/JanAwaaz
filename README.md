@@ -2,7 +2,6 @@
 
 JanAwaaz is a full-stack civic engagement platform that lets citizens report, track, and resolve local infrastructure problems — broken roads, garbage, water leaks, power outages, and more — while giving government authorities a dedicated dashboard to act on them. It was built as a submission for **India Innovates (Municipal Corporation of Delhi)**, where it was ranked among the top teams out of 25,000+ nationwide entries.
 
-**🔗 Live demo:** https://janawaaz.onrender.com/home
 
 ## Why JanAwaaz
 
